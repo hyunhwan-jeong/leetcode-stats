@@ -4,7 +4,7 @@
 
 The repo contains notebooks that crawl your [leetcode](https://leetcode.com/) submission page of and visualize some plots for the submissions.
 
-## Why did you create?
+## Why did I create?
 
 The reason is simple. The stats provided by leetcode are very limited. They even don't show the number of problems solved per day (they only provides the number of submissions).  
 
